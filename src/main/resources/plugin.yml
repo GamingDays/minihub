@@ -1,0 +1,3 @@
+name: Minihub
+version: ${project.version}
+main: fr.gamingdays.minihub.Minihub
